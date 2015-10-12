@@ -14,14 +14,14 @@
     <script src="./products.js"></script>
 </head>
 <body ng-controller="CommerceCtrl" ng-init="show()">
-    <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
-        <div class="container">
-            <div class="navbar-header">
-                <a class="navbar-brand" href="#">Diego & Marilia Vendem</a>
+    <div class="container-fluid">
+        <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+            <div class="container">
+                <div class="navbar-header">
+                    <a class="navbar-brand" href="#">Diego & Marilia Vendem</a>
+                </div>
             </div>
         </div>
-    </div>
-    <div class="container">
         <div class="subcategories">
             <span class="category" ng-repeat="category in categories"><a href="#/{{category.id}}" ng-click="show(category.id)">{{category.name}}</a></span>
             <span class="category"><a href="contato.html">Contato</a></span>
@@ -33,15 +33,14 @@
                 <legend><h3>Compre junto e pague menos</h3></legend>
 
                 <div class="row" ng-repeat="promotion in category.availablePromotions()">
-                    <div class="col-lg-2"></div>
-                    <div class="col-lg-8">
+                    <div class="col-lg-8 col-lg-offset-2">
                         <div class="promotion product row bg-success">
-                            <div class="col-lg-4" ng-repeat="product in promotion.products">
+                            <div class="col-lg-4 col-xs-6" ng-repeat="product in promotion.products">
                                 <img ng-src="{{product.image}}" height="100px">
                                 <p><span class="name">{{product.name}}</span></p>
                                 <p><span class="regular price"><strong>R$ {{product.price}}</strong></span></p>
                             </div>
-                            <div class="col-lg-4">
+                            <div class="col-lg-4 col-xs-12">
                                 <div>
                                     <p><span class="promotional price">R$ {{promotion.price}}</span></p>
                                     <p><a class="btn btn-lg btn-success" href="mailto:dnfeitosa@gmail.com?subject=Promo: {{promotion.name()}}">Eu quero!</a></p>
@@ -56,7 +55,7 @@
                 <legend><h3>{{subCategory.name}}</h3></legend>
 
                 <div class="row">
-                    <div class="product col-sm-3" ng-repeat="product in subCategory.products">
+                    <div class="product col-lg-3 col-xs-12" ng-repeat="product in subCategory.products">
                         <img ng-src="{{product.image}}" height="120px">
                         <p><span class="name">{{product.name}}</span></p>
                         <p><span class="price"><strong>R$ {{product.price}}</strong></span></p>
