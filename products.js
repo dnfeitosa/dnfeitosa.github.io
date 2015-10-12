@@ -24,6 +24,9 @@ var xboxPromotion2 = new Promotion([xbox, gearsOfWars], 90);
 consoleGames.addPromotion(xboxPromotion);
 consoleGames.addPromotion(xboxPromotion2);
 
+promocoes.addPromotion(xboxPromotion);
+promocoes.addPromotion(xboxPromotion2);
+
 var categories = [
     promocoes,
     consoleGames,
