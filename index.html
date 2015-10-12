@@ -1,10 +1,70 @@
-<html>
-  <head>
-    <script type="text/javascript">
-      alert('hello');
-    </script>
-  </head>
-  <body>
-    hey!
-  </body>
-</html>
+<!DOCTYPE html>
+<html lang="en" ng-app="commerceApp">
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" >
+    <title>Diego & Marilia Vendem</title>
+    <link type="text/css" rel="stylesheet" href="./css/bootstrap.css" />
+    <link type="text/css" rel="stylesheet" href="./css/commerce.css" />
+    <script src="./js/jquery-2.1.1.min.js"></script>
+    <script src="./js/angular.min.js"></script>
+    <script src="./js/ui-bootstrap-tpls-0.11.2.min.js"></script>
+    <script src="./js/controllers.js"></script>
+    <script src="./js/bootstrap.js"></script>
+    <script src="./models.js"></script>
+    <script src="./products.js"></script>
+</head>
+<body ng-controller="CommerceCtrl" ng-init="show()">
+    <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+        <div class="container">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="#">Diego & Marilia Vendem</a>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="subcategories">
+            <span class="category" ng-repeat="category in categories"><a href="#/{{category.id}}" ng-click="show(category.id)">{{category.name}}</a></span>
+            <span class="category"><a href="contato.html">Contato</a></span>
+        </div>
+        <section class="category">
+            <legend><h1>{{category.name}}</h1></legend>
+
+            <section class="promotions" ng-show="category.hasPromotions()">
+                <legend><h3>Promoções</h3></legend>
+
+                <div class="row" ng-repeat="promotion in category.availablePromotions()">
+                    <div class="col-lg-2"></div>
+                    <div class="col-lg-8">
+                        <div class="promotion product row bg-success">
+                            <div class="col-lg-4" ng-repeat="product in promotion.products">
+                                <img ng-src="{{product.image}}" height="100px">
+                                <p><span class="name">{{product.name}}</span></p>
+                                <p><span class="regular price"><strong>R$ {{product.price}}</strong></span></p>
+                            </div>
+                            <div class="col-lg-4">
+                                <div>
+                                    <p><span class="promotional price">R$ {{promotion.price}}</span></p>
+                                    <p><a class="btn btn-lg btn-success" href="mailto:dnfeitosa@gmail.com?subject=Promo: {{promotion.name()}}">Eu quero!</a></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="subcategory" ng-repeat="subCategory in category.subCategories">
+                <legend><h3>{{subCategory.name}}</h3></legend>
+
+                <div class="row">
+                    <div class="product col-sm-3" ng-repeat="product in subCategory.products">
+                        <img ng-src="{{product.image}}" height="120px">
+                        <p><span class="name">{{product.name}}</span></p>
+                        <p><span class="price"><strong>R$ {{product.price}}</strong></span></p>
+                        <p><span class="description small">{{product.description}}</span></p>
+                        <p><a class="btn btn-sm btn-success" href="mailto:dnfeitosa@gmail.com?subject={{product.name}}">Eu quero!</a></p>
+                    </div>
+                </div>
+            </section>
+        </section>
+    </div>
+</body>

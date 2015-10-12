@@ -1,0 +1,55 @@
+body {
+    margin-top: 50px;
+}
+
+.category {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+section.category {
+    margin-top: 20px;
+}
+
+
+section.subcategory > legend {
+    font-size: 30px;
+}
+
+.subcategories {
+    padding: 10px;
+}
+
+.product {
+    text-align: center;
+    padding: 15px;
+}
+
+.name {
+    font-size: 15px;
+}
+
+.price {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+section.promotions .product .name {
+
+}
+section.promotions .price.regular {
+    color: #dc0000;
+    text-decoration: line-through;
+}
+
+.promotion {
+    margin-bottom: 10px;
+}
+
+.promotion .btn {
+
+}
+
+.promotional {
+    font-size: 50px;
+}
