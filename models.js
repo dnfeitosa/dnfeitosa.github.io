@@ -53,6 +53,14 @@ Promotion.prototype.name = function () {
     }).join(" + ");
 }
 
+Promotion.prototype.regularTotalPrice = function () {
+    var total = 0;
+    this.products.forEach(function (product) {
+        total += product.price;
+    })
+    return total;
+}
+
 Promotion.prototype.isAvailable = function () {
     var res = this.products.filter(function (product) {
         return !product.available;

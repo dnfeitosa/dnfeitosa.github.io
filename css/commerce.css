@@ -23,6 +23,12 @@ section.subcategory > legend {
 .product {
     text-align: center;
     padding: 15px;
+    margin-bottom: 15px;
+    border-bottom: solid 2px #d9d9d9;
+}
+
+.product .info {
+    height: 220px;
 }
 
 .name {
@@ -51,5 +57,5 @@ section.promotions .price.regular {
 }
 
 .promotional {
-    font-size: 50px;
+    font-size: 35px;
 }
