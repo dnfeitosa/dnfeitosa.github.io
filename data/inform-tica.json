@@ -1,0 +1,65 @@
+{
+  "id": "inform-tica",
+  "subcategories": [
+    {
+      "id": "inform-tica",
+      "name": "Informática",
+      "products": [
+        {
+          "id": "multifuncional-hp-deskjet-f4480",
+          "name": "Multifuncional HP Deskjet F4480",
+          "price": 140.0,
+          "image": "multifuncional.jpg",
+          "description": "Impressora + Scanner + Copiadora. Compatível com Windows e Mac",
+          "available": true
+        },
+        {
+          "id": "monitor-lcd-17--lg",
+          "name": "Monitor LCD 17\" LG",
+          "price": 100.0,
+          "image": "monitores-17-polegadas-de-lcd-com-garantia-de-6-meses-782701-MLB20384871301_082015-O.jpg",
+          "description": "VGA e DVI",
+          "available": true
+        },
+        {
+          "id": "monitor-lcd-21-5--samsung-b2230",
+          "name": "Monitor LCD 21.5\" Samsung B2230",
+          "price": 250.0,
+          "image": "monitor-lcd-22-samsung-b2230-cabos-com-magic-return--881701-MLB20370525705_082015-O.jpg",
+          "description": "VGA e DVI",
+          "available": true
+        },
+        {
+          "id": "mac-mini-server-a1347--mid-2011-",
+          "name": "Mac Mini Server A1347 (Mid 2011)",
+          "price": 3000.0,
+          "image": "mac_mini_server.jpg",
+          "description": "Processador Intel Core i7 2Ghz Memória 8GB HD 1TB",
+          "available": true
+        },
+        {
+          "id": "teclado-sem-fio-apple",
+          "name": "Teclado sem fio Apple",
+          "price": 180.0,
+          "image": "teclado_apple.jpg",
+          "description": "",
+          "available": true
+        },
+        {
+          "id": "adaptador-wireless-p--tv-samsung",
+          "name": "Adaptador Wireless p/ TV Samsung",
+          "price": 60.0,
+          "image": "8271977_1GG.jpg",
+          "description": "",
+          "available": true
+        }
+      ],
+      "promotions": [
+
+      ]
+    }
+  ],
+  "promotions": [
+
+  ]
+}

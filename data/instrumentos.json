@@ -1,0 +1,41 @@
+{
+  "id": "instrumentos",
+  "subcategories": [
+    {
+      "id": "instrumentos",
+      "name": "Instrumentos",
+      "products": [
+        {
+          "id": "piano-digital-casio-cdp-120---suporte",
+          "name": "Piano Digital Casio CDP-120 + Suporte",
+          "price": 1200.0,
+          "image": "piano-digital-casio-cdp-120bk-oportunidade-618801-MLB20405038871_092015-F.jpg",
+          "description": "88 teclas. Inclui fonte original, pedal original e suporte para partituras.",
+          "available": true
+        },
+        {
+          "id": "viol-o-el-trico-ibanez-v70ce---case-r-gido-gator",
+          "name": "Violão elétrico Ibanez V70CE + Case rígido Gator",
+          "price": 850.0,
+          "image": "violao_case.jpg",
+          "description": "",
+          "available": true
+        },
+        {
+          "id": "viol-o-ac-stico-eagle-dh-69",
+          "name": "Violão Acústico Eagle DH-69",
+          "price": 250.0,
+          "image": "dh69-violo-acustico-ny-tensor-tarraxas-dourada-black-eagle-677701-MLB20381940616_082015-O.jpg",
+          "description": "",
+          "available": true
+        }
+      ],
+      "promotions": [
+
+      ]
+    }
+  ],
+  "promotions": [
+
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "id": "jogos-console",
+  "subcategories": [
+    {
+      "id": "jogos",
+      "name": "Jogos",
+      "products": [
+        {
+          "id": "darksiders",
+          "name": "Darksiders",
+          "price": 30.0,
+          "image": "jogo-darksiders-xbox-360-game-original-lacrado-a5450-316901-MLB20438407645_102015-O.jpg",
+          "description": "",
+          "available": true
+        },
+        {
+          "id": "darksiders-ii",
+          "name": "Darksiders II",
+          "price": 30.0,
+          "image": "darksiders-ii-2-midia-fisica-xbox-360-12008-MLB20054103341_022014-O.jpg",
+          "description": "",
+          "available": true
+        },
+        {
+          "id": "mass-effect-trilogy",
+          "name": "Mass Effect Trilogy",
+          "price": 90.0,
+          "image": "mass-effect-trilogy-xbox-360-20556-MLB20192144817_112014-O.jpg",
+          "description": "Box contendo os jogos Mass Effect, Mass Effect 2 e Mass Effect 3",
+          "available": true
+        },
+        {
+          "id": "guitar-hero-5",
+          "name": "Guitar Hero 5",
+          "price": 35.0,
+          "image": "guitar-hero-5-xbox360-489011-MLB20453349394_102015-O.jpg",
+          "description": "",
+          "available": true
+        },
+        {
+          "id": "guitar-hero-world-tour",
+          "name": "Guitar Hero World Tour",
+          "price": 25.0,
+          "image": "guitar-hero-world-tour-xbox-360-138201-MLB20296107814_052015-O.jpg",
+          "description": "Segund mão - Sem encarte original",
+          "available": true
+        },
+        {
+          "id": "rock-band-2",
+          "name": "Rock Band 2",
+          "price": 25.0,
+          "image": "rock-band-2-xbox-360-sem-manual-mad4games-178601-MLB20395024911_082015-O.jpg",
+          "description": "",
+          "available": true
+        },
+        {
+          "id": "guitar-hero-warriror-of-rock",
+          "name": "Guitar Hero Warriror of Rock",
+          "price": 40.0,
+          "image": "guitar-hero-warrior-of-rock-xbox-360-439201-MLB20296165322_052015-O.jpg",
+          "description": "",
+          "available": true
+        },
+        {
+          "id": "rock-band-track-pack---classic-rock",
+          "name": "Rock Band Track Pack - Classic Rock",
+          "price": 20.0,
+          "image": "patchs-x360-lt-30-rock-band-track-pack-classic-rock-431601-MLB20344269172_072015-O.jpg",
+          "description": "",
+          "available": true
+        },
+        {
+          "id": "silent-hill-homecoming",
+          "name": "Silent Hill Homecoming",
+          "price": 25.0,
+          "image": "jogo-pdestravados-silent-hill-homecoming-xbox-360-305901-MLB20446300446_102015-O.jpg",
+          "description": "",
+          "available": true
+        },
+        {
+          "id": "silent-hill-downpour",
+          "name": "Silent Hill Downpour",
+          "price": 35.0,
+          "image": "jogo-silent-hill-downpour-ntsc-original-xbox-360-menor-preco-221401-MLB20318621853_062015-O.jpg",
+          "description": "",
+          "available": true
+        },
+        {
+          "id": "silent-hill-hd-collection",
+          "name": "Silent Hill HD Collection",
+          "price": 30.0,
+          "image": "jogo-novo-lacrado-silent-hill-hd-collection-para-xbox-360-16497-MLB20121370796_072014-O.jpg",
+          "description": "Silent Hill 2 e Silent Hill 3 remasterizados em HD",
+          "available": true
+        },
+        {
+          "id": "dishonored",
+          "name": "Dishonored",
+          "price": 25.0,
+          "image": "dishonored-original-sedex-a-partir-de-r-999-11415-MLB20044622131_022014-O.jpg",
+          "description": "",
+          "available": true
+        },
+        {
+          "id": "duke-nukem-forever",
+          "name": "Duke Nukem Forever",
+          "price": 5.0,
+          "image": "jogo-duke-nukem-forever-ntsc-original-xbox-360-menor-preco-453701-MLB20378739451_082015-O.jpg",
+          "description": "",
+          "available": true
+        },
+        {
+          "id": "fable-2",
+          "name": "Fable 2",
+          "price": 25.0,
+          "image": "fable-2-xbox360-usado-original-midia-fisica-10620-MLB20032714862_012014-O.jpg",
+          "description": "Segunda mão - Sem encarte original",
+          "available": true
+        },
+        {
+          "id": "fable-iii",
+          "name": "Fable III",
+          "price": 25.0,
+          "image": "fable-iii-xbox360-23361-MLB20247592814_022015-O.jpg",
+          "description": "",
+          "available": true
+        },
+        {
+          "id": "gears-of-war",
+          "name": "Gears of War",
+          "price": 30.0,
+          "image": "jogo-gears-of-war-para-xbox-360-original-e-lacrado-14215-MLB190536561_8428-O.jpg",
+          "description": "",
+          "available": true
+        },
+        {
+          "id": "gears-of-war-2",
+          "name": "Gears of War 2",
+          "price": 30.0,
+          "image": "jogo-gears-of-war-2-para-xbox-360-x360-816401-MLB20343814976_072015-O.jpg",
+          "description": "",
+          "available": true
+        },
+        {
+          "id": "gears-of-war-3",
+          "name": "Gears of War 3",
+          "price": 30.0,
+          "image": "xbox-360-865601-MLB20369060824_082015-Y.jpg",
+          "description": "",
+          "available": true
+        },
+        {
+          "id": "gears-of-war-judgement",
+          "name": "Gears of War Judgement",
+          "price": 40.0,
+          "image": "gears-of-war-judgement-x360-conspiracy-590901-MLB20428557453_092015-F.jpg",
+          "description": "",
+          "available": true
+        },
+        {
+          "id": "dead-space",
+          "name": "Dead Space",
+          "price": 30.0,
+          "image": "jogo-dead-space-xbox-360-851801-MLB20415656515_092015-F.jpg",
+          "description": "",
+          "available": true
+        },
+        {
+          "id": "dead-space-3---limited-edition",
+          "name": "Dead Space 3 - Limited Edition",
+          "price": 40.0,
+          "image": "video-games-20376-MLB20188606285_102014-Y.jpg",
+          "description": "",
+          "available": true
+        },
+        {
+          "id": "dead-space-2",
+          "name": "Dead Space 2",
+          "price": 40.0,
+          "image": "game-xbox360-dead-space-2-9679-MLB20020056256_122013-O.jpg",
+          "description": "",
+          "available": true
+        }
+      ],
+      "promotions": [
+
+      ]
+    },
+    {
+      "id": "console---controles",
+      "name": "Console & Controles",
+      "products": [
+        {
+          "id": "guitarra-guitar-hero",
+          "name": "Guitarra Guitar Hero",
+          "price": 120.0,
+          "image": "guitarra-guitar-hero-5-xbox-360-xbox360-17256-MLB20135477396_072014-O.jpg",
+          "description": "Sem fio. Compatível com Rock Band. Sem caixa.",
+          "available": true
+        },
+        {
+          "id": "xbox-360-4gb---controle",
+          "name": "Xbox 360 4gb + Controle",
+          "price": 700.0,
+          "image": "xbox-360-slim-4gb-ltu-30-10-jogos-joga-na-live-508701-MLB20407496486_092015-O.jpg",
+          "description": "",
+          "available": true
+        },
+        {
+          "id": "controle-xbox-360-sem-fio",
+          "name": "Controle Xbox 360 sem fio",
+          "price": 100.0,
+          "image": "controle-joystick-sem-fio-xbox-360-548901-MLB20433406498_092015-O.jpg",
+          "description": "",
+          "available": true
+        },
+        {
+          "id": "kinect-xbox-360---kinect-adventures",
+          "name": "Kinect Xbox 360 + Kinect Adventures",
+          "price": 180.0,
+          "image": "kinect-sensor-semi-novo-do-xbox-360-com-kinect-adventures-14631-MLB195966373_3437-O.jpg",
+          "description": "",
+          "available": true
+        }
+      ],
+      "promotions": [
+
+      ]
+    },
+    {
+      "id": "promos",
+      "name": "Promos",
+      "products": [
+
+      ],
+      "promotions": [
+
+      ]
+    }
+  ],
+  "promotions": [
+    {
+      "price": 900.0,
+      "products": [
+        "xbox-360-4gb---controle",
+        "kinect-xbox-360---kinect-adventures",
+        "controle-xbox-360-sem-fio"
+      ]
+    },
+    {
+      "price": 110.0,
+      "products": [
+        "gears-of-war",
+        "gears-of-war-2",
+        "gears-of-war-3",
+        "gears-of-war-judgement"
+      ]
+    },
+    {
+      "price": 90.0,
+      "products": [
+        "dead-space",
+        "dead-space-2",
+        "dead-space-3---limited-edition"
+      ]
+    }
+  ]
+}
