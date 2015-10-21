@@ -27,7 +27,7 @@
           "price": 250.0,
           "image": "monitor-lcd-22-samsung-b2230-cabos-com-magic-return--881701-MLB20370525705_082015-O.jpg",
           "description": "VGA e DVI",
-          "available": true
+          "available": false
         },
         {
           "id": "mac-mini-server-a1347--mid-2011-",

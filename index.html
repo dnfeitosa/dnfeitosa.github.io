@@ -75,7 +75,7 @@
                 <legend><h3>{{subCategory.name}}</h3></legend>
 
                 <div class="row">
-                    <div class="product col-lg-2 col-md-3 col-sm-4" ng-repeat="product in subCategory.products | orderBy: 'name'">
+                    <div class="product col-lg-2 col-md-3 col-sm-4" ng-repeat="product in subCategory.availableProducts() | orderBy: 'name'">
                         <div class="info">
                             <img ng-src="/images/{{product.image}}" height="120px">
                             <div class="name">{{product.name}}</div>

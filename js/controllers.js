@@ -55,7 +55,6 @@ app.controller('CommerceCtrl', function ($scope, $location, categoryService) {
         categoryService.find(categoryId).then(function (category) {
             $scope.category = category;
         });
-        console.log($scope.category);
         $scope.categoryId = categoryId;
     };
 });

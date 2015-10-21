@@ -42,6 +42,12 @@ SubCategory.prototype.addProduct = function (product) {
     this.products.push(product);
 }
 
+SubCategory.prototype.availableProducts = function () {
+  return this.products.filter(function (product) {
+    return product.available;
+  });
+}
+
 function Promotion(products, price) {
     this.products = products;
     this.price = price;
