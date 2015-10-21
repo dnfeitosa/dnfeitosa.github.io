@@ -99,7 +99,7 @@
           "price": 25.0,
           "image": "dishonored-original-sedex-a-partir-de-r-999-11415-MLB20044622131_022014-O.jpg",
           "description": "",
-          "available": true
+          "available": false
         },
         {
           "id": "duke-nukem-forever",
@@ -212,7 +212,7 @@
           "price": 100.0,
           "image": "controle-joystick-sem-fio-xbox-360-548901-MLB20433406498_092015-O.jpg",
           "description": "",
-          "available": true
+          "available": false
         },
         {
           "id": "kinect-xbox-360---kinect-adventures",
