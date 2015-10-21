@@ -11,7 +11,7 @@
           "price": 90.0,
           "image": "51sZW87slRL._SX375_BO1,204,203,200_.jpg",
           "description": "Capa dura.  Autor: Eric Evans",
-          "available": true
+          "available": false
         },
         {
           "id": "rest-in-practice",
@@ -43,7 +43,7 @@
           "price": 80.0,
           "image": "0131177052.jpg",
           "description": "Michael Feathers",
-          "available": true
+          "available": false
         },
         {
           "id": "coders-at-work",
@@ -91,7 +91,7 @@
           "price": 30.0,
           "image": "61zQL5ye77L._SX379_BO1,204,203,200_.jpg",
           "description": "Neal Ford",
-          "available": true
+          "available": false
         },
         {
           "id": "the-passionate-programmer",
@@ -99,7 +99,7 @@
           "price": 30.0,
           "image": "51COTsyWi8L._SX331_BO1,204,203,200_.jpg",
           "description": "Chad Fowler",
-          "available": true
+          "available": false
         },
         {
           "id": "pragmatic-thinking-and-learning",
@@ -107,7 +107,7 @@
           "price": 30.0,
           "image": "51cGj4FRZ5L._SX415_BO1,204,203,200_.jpg",
           "description": "Andy Hunt",
-          "available": true
+          "available": false
         },
         {
           "id": "practices-of-an-agile-developer",
@@ -123,7 +123,7 @@
           "price": 30.0,
           "image": "51%2BDJ2%2BWuAL._SX415_BO1,204,203,200_.jpg",
           "description": "Various",
-          "available": true
+          "available": false
         },
         {
           "id": "the-definitive-antlr-reference",
@@ -147,7 +147,7 @@
           "price": 35.0,
           "image": "41BKx1AxQWL._SX396_BO1,204,203,200_.jpg",
           "description": "Andrew Hunt, David Thomas",
-          "available": true
+          "available": false
         }
       ],
       "promotions": [
@@ -220,7 +220,7 @@
           "price": 20.0,
           "image": "51kBBKTfRWL._SX346_BO1,204,203,200_.jpg",
           "description": "Autor:  Nicole Lipkin, April Perrymore Editora: Elsevier",
-          "available": true
+          "available": false
         },
         {
           "id": "guia-politicamente-incorreto-da-filosofia",
@@ -877,7 +877,7 @@
           "price": 10.0,
           "image": "30757219.jpg",
           "description": "Autor: Gillian Flynn Editora: Intrínseca ",
-          "available": true
+          "available": false
         },
         {
           "id": "o-art-fice",
@@ -885,7 +885,7 @@
           "price": 10.0,
           "image": "51NFpzbQaiL._SX338_BO1,204,203,200_.jpg",
           "description": "Autor: Richard Sennett Editora: Record",
-          "available": true
+          "available": false
         },
         {
           "id": "a-hist-ria-das-coisas",
@@ -901,7 +901,7 @@
           "price": 30.0,
           "image": "86936013.jpg",
           "description": "Editora: Lonely Planet",
-          "available": true
+          "available": false
         },
         {
           "id": "dicion-rio-oxford-escolar--port-ingl-s-",
