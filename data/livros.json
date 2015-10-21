@@ -19,7 +19,7 @@
           "price": 70.0,
           "image": "51Z5YiRKRbL._SX258_BO1,204,203,200_.jpg",
           "description": "Jim Webber, Savas Parastatidis, Ian Robinson",
-          "available": true
+          "available": false
         },
         {
           "id": "restful-web-services",
@@ -27,7 +27,7 @@
           "price": 30.0,
           "image": "51rwSlFnsHL._SX379_BO1,204,203,200_.jpg",
           "description": "Leonard Richardson, Sam Ruby",
-          "available": true
+          "available": false
         },
         {
           "id": "c--3-0-in-a-nutshell",
@@ -67,7 +67,7 @@
           "price": 60.0,
           "image": "177684_1GG.jpg",
           "description": "Gang of Four",
-          "available": true
+          "available": false
         },
         {
           "id": "team-geek",
@@ -115,7 +115,7 @@
           "price": 30.0,
           "image": "516JgnUK9yL._SX415_BO1,204,203,200_.jpg",
           "description": "Venkat Subramaniam, Andy Hunt",
-          "available": true
+          "available": false
         },
         {
           "id": "the-thoughtworks-anthology",
@@ -204,7 +204,7 @@
           "price": 20.0,
           "image": "17542424.jpg",
           "description": "Autor: Eric Ries Editora: Leya Brasil",
-          "available": true
+          "available": false
         },
         {
           "id": "startup-brasil",
