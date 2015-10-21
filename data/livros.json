@@ -35,7 +35,7 @@
           "price": 10.0,
           "image": "orm-9780596527570-03-04.orm-9780596527570-cover(v=orm.10).gif",
           "description": "Joseph Albahari, Ben Albahari",
-          "available": true
+          "available": false
         },
         {
           "id": "working-effectively-with-legacy-code",
@@ -59,7 +59,7 @@
           "price": 35.0,
           "image": "518QYzt7wLL._SX384_BO1,204,203,200_.jpg",
           "description": "Joshua Bloch",
-          "available": true
+          "available": false
         },
         {
           "id": "padr-es-de-projeto---gof",
@@ -83,7 +83,7 @@
           "price": 10.0,
           "image": "51DZDisparL._SX360_BO1,204,203,200_.jpg",
           "description": "Autor: Garfinkel, Rosemberg. Editora: Addison Wesley **Livro em inglês",
-          "available": true
+          "available": false
         },
         {
           "id": "the-productive-programmer",
@@ -139,7 +139,7 @@
           "price": 20.0,
           "image": "programming_ruby.jpg",
           "description": "Dave Thomas",
-          "available": true
+          "available": false
         },
         {
           "id": "the-pragmatic-programmer",

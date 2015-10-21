@@ -19,7 +19,7 @@
           "price": 100.0,
           "image": "monitores-17-polegadas-de-lcd-com-garantia-de-6-meses-782701-MLB20384871301_082015-O.jpg",
           "description": "VGA e DVI",
-          "available": true
+          "available": false
         },
         {
           "id": "monitor-lcd-21-5--samsung-b2230",
@@ -43,7 +43,7 @@
           "price": 180.0,
           "image": "teclado_apple.jpg",
           "description": "",
-          "available": true
+          "available": false
         },
         {
           "id": "adaptador-wireless-p--tv-samsung",
@@ -51,7 +51,7 @@
           "price": 60.0,
           "image": "8271977_1GG.jpg",
           "description": "",
-          "available": true
+          "available": false
         }
       ],
       "promotions": [
