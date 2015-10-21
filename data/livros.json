@@ -445,7 +445,7 @@
           "price": 5.0,
           "image": "17584086.jpg",
           "description": "Autor: Edgar Allan Poe Editora: L&PM",
-          "available": true
+          "available": false
         },
         {
           "id": "aura",
