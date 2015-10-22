@@ -19,7 +19,7 @@
           "price": 70.0,
           "image": "51Z5YiRKRbL._SX258_BO1,204,203,200_.jpg",
           "description": "Jim Webber, Savas Parastatidis, Ian Robinson",
-          "available": false
+          "available": true
         },
         {
           "id": "restful-web-services",
@@ -27,7 +27,7 @@
           "price": 30.0,
           "image": "51rwSlFnsHL._SX379_BO1,204,203,200_.jpg",
           "description": "Leonard Richardson, Sam Ruby",
-          "available": false
+          "available": true
         },
         {
           "id": "c--3-0-in-a-nutshell",
