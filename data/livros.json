@@ -728,14 +728,6 @@
           "available": true
         },
         {
-          "id": "1000-pin-up-girls",
-          "name": "1000 pin-up girls",
-          "price": 50.0,
-          "image": "livro-1000-pin-ups-editora-taschen-novo-522501-MLB20330809090_062015-O.jpg",
-          "description": "Autor: Harrison Rober Editora: Taschen  **Livro em inglês",
-          "available": true
-        },
-        {
           "id": "crime-e-castigo",
           "name": "Crime e castigo",
           "price": 5.0,
@@ -757,14 +749,6 @@
           "price": 30.0,
           "image": "2638994.jpg",
           "description": "Autor: Steven Jay Schneider  Editora: Arqueiro",
-          "available": true
-        },
-        {
-          "id": "101-cult-movies-you-must-see-before-you-die",
-          "name": "101 cult movies you must see before you die",
-          "price": 30.0,
-          "image": "22347342.jpg",
-          "description": "Autor: Steven Jay Schneider  Editora: Cassel Illustrated  **Livro em inglês",
           "available": true
         },
         {
