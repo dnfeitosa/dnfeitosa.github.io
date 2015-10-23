@@ -509,7 +509,7 @@
           "price": 10.0,
           "image": "2942450.jpg",
           "description": "Autor: Douglas Adamas Editora: Arqueiro",
-          "available": true
+          "available": false
         },
         {
           "id": "helter-skelter",
