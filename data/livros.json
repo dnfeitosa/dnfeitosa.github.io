@@ -228,7 +228,7 @@
           "price": 20.0,
           "image": "29564937.jpg",
           "description": "Autor: Luiz Felipe Pondé Editora: Leya Brasil",
-          "available": true
+          "available": false
         },
         {
           "id": "investindo-em-small-caps",
@@ -365,7 +365,7 @@
           "price": 5.0,
           "image": "5036696.jpg",
           "description": "Autor: Crebillion Fils  Editora: L&PM",
-          "available": true
+          "available": false
         },
         {
           "id": "uma-breve-historia-da-filosofia-",
@@ -597,7 +597,7 @@
           "price": 10.0,
           "image": "42140429.jpg",
           "description": "Autor: Juan Pablo Villalobos Editora: Companhia das Letras",
-          "available": true
+          "available": false
         },
         {
           "id": "os-aparados",
@@ -725,7 +725,7 @@
           "price": 10.0,
           "image": "42127074.jpg",
           "description": "Autor: William Davis  Editora: Martins Fontes ",
-          "available": true
+          "available": false
         },
         {
           "id": "crime-e-castigo",
@@ -765,7 +765,7 @@
           "price": 10.0,
           "image": "31Kj2ItCBJL._SX330_BO1,204,203,200_.jpg",
           "description": "Autor: Raduan Nassar Editora: Companhia das Letras",
-          "available": true
+          "available": false
         },
         {
           "id": "hist-rias-dos-mares-do-sul",
