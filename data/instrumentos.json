@@ -24,10 +24,10 @@
         {
           "id": "viol-o-ac-stico-eagle-dh-69",
           "name": "Violão Acústico Eagle DH-69",
-          "price": 200.0,
+          "price": 250.0,
           "image": "dh69-violo-acustico-ny-tensor-tarraxas-dourada-black-eagle-677701-MLB20381940616_082015-O.jpg",
           "description": "",
-          "available": false
+          "available": true
         }
       ],
       "promotions": [
