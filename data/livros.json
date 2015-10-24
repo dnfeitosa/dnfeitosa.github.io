@@ -161,7 +161,7 @@
         {
           "id": "the-three-signs-of-a-miserable-job",
           "name": "The Three Signs of a Miserable Job",
-          "price": 25.0,
+          "price": 45.0,
           "image": "41XepS8LtcL._SX322_BO1,204,203,200_.jpg",
           "description": "Patrick Lencioni",
           "available": true
@@ -169,7 +169,7 @@
         {
           "id": "silos--politics-and-turf-wars",
           "name": "Silos, Politics and Turf Wars",
-          "price": 25.0,
+          "price": 45.0,
           "image": "silos.png",
           "description": "Patrick Lencioni",
           "available": true
