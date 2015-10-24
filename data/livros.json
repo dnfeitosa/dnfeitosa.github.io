@@ -276,49 +276,66 @@
       ]
     },
     {
-      "id": "literatura-geral",
-      "name": "Literatura geral",
+      "id": "harlan-coben",
+      "name": "Harlan Coben",
       "products": [
         {
-          "id": "uma-hist-ria-da-guerra",
-          "name": "Uma história da guerra",
+          "id": "quando-ela-se-foi",
+          "name": "Quando ela se foi",
           "price": 10.0,
-          "image": "51Bjdu9YFjL._AA324_PIkin4,BottomRight,-49,22_AA346_SH20_OU32_.jpg",
-          "description": "Autor: John Keegan Editora: Companhia de Bolso",
+          "image": "51v2%2BBJ6D-L._AA324_PIkin4,BottomRight,-49,22_AA346_SH20_OU32_.jpg",
+          "description": "Autor: Harlan Coben Editora: Arqueiro",
           "available": true
         },
         {
-          "id": "relato-de-um-certo-oriente",
-          "name": "Relato de um certo Oriente",
+          "id": "quebra-de-confian-a",
+          "name": "Quebra de confiança",
           "price": 10.0,
-          "image": "2509944.jpg",
-          "description": "Autor: Milton Hatoum Editora: Companhia de Bolso",
+          "image": "51ez7tNBDkL._AA324_PIkin4,BottomRight,-49,22_AA346_SH20_OU32_.jpg",
+          "description": "Autor: Harlan Coben Editora: Arqueiro",
           "available": true
         },
         {
-          "id": "humano--demasiado-humano",
-          "name": "Humano, demasiado humano",
+          "id": "desaparecido-para-sempre",
+          "name": "Desaparecido para sempre",
           "price": 10.0,
-          "image": "1145885.jpg",
-          "description": "Autor: Friedrich Nietzsche Editora: Companhia de Bolso",
+          "image": "51G6E%2BWIcEL._AA324_PIkin4,BottomRight,-55,22_AA346_SH20_OU32_.jpg",
+          "description": "Autor: Harlan Coben Editora: Arqueiro",
           "available": true
         },
         {
-          "id": "dois-irm-os",
-          "name": "Dois irmãos",
+          "id": "n-o-conte-a-ningu-m",
+          "name": "Não conte a ninguém",
           "price": 10.0,
-          "image": "5044692.jpg",
-          "description": "Autor: Milton Hatoum Editora: Companhia de Bolso",
+          "image": "2929204.jpg",
+          "description": "Autor: Harlan Coben Editora: Arqueiro",
           "available": true
         },
         {
-          "id": "f-bulas-italianas",
-          "name": "Fábulas Italianas",
+          "id": "seis-anos-depois",
+          "name": "Seis anos depois",
           "price": 10.0,
-          "image": "1823917.jpg",
-          "description": "Autor: Ítalo Calvino Editora: Companhia de Bolso",
+          "image": "51vZQp-jq-L._SX346_BO1,204,203,200_.jpg",
+          "description": "Autor: Harlan Coben Editora: Arqueiro",
           "available": true
         },
+        {
+          "id": "cilada",
+          "name": "Cilada",
+          "price": 10.0,
+          "image": "51gPansokEL._SX337_BO1,204,203,200_.jpg",
+          "description": "Autor: Harlan Coben Editora: Arqueiro",
+          "available": true
+        }
+      ],
+      "promotions": [
+
+      ]
+    },
+    {
+      "id": "livros-de-bolso",
+      "name": "Livros de Bolso",
+      "products": [
         {
           "id": "ratos-e-homens",
           "name": "Ratos e homens",
@@ -504,12 +521,69 @@
           "available": true
         },
         {
-          "id": "guia-do-mochileiro-das-gal-xias",
-          "name": "Guia do mochileiro das galáxias",
+          "id": "por-que-engordamos",
+          "name": "Por que engordamos",
           "price": 10.0,
-          "image": "2942450.jpg",
-          "description": "Autor: Douglas Adamas Editora: Arqueiro",
-          "available": false
+          "image": "42749735.jpg",
+          "description": "Autor: Gary Taubes Editora: L&PM",
+          "available": true
+        },
+        {
+          "id": "tudo-come-ou-com-maquiavel",
+          "name": "Tudo começou com maquiavel",
+          "price": 10.0,
+          "image": "35932_992.jpg",
+          "description": "Autor: Luciano Gruppi  Editora: L&PM",
+          "available": true
+        }
+      ],
+      "promotions": [
+
+      ]
+    },
+    {
+      "id": "literatura-geral",
+      "name": "Literatura geral",
+      "products": [
+        {
+          "id": "uma-hist-ria-da-guerra",
+          "name": "Uma história da guerra",
+          "price": 10.0,
+          "image": "51Bjdu9YFjL._AA324_PIkin4,BottomRight,-49,22_AA346_SH20_OU32_.jpg",
+          "description": "Autor: John Keegan Editora: Companhia de Bolso",
+          "available": true
+        },
+        {
+          "id": "relato-de-um-certo-oriente",
+          "name": "Relato de um certo Oriente",
+          "price": 10.0,
+          "image": "2509944.jpg",
+          "description": "Autor: Milton Hatoum Editora: Companhia de Bolso",
+          "available": true
+        },
+        {
+          "id": "humano--demasiado-humano",
+          "name": "Humano, demasiado humano",
+          "price": 10.0,
+          "image": "1145885.jpg",
+          "description": "Autor: Friedrich Nietzsche Editora: Companhia de Bolso",
+          "available": true
+        },
+        {
+          "id": "dois-irm-os",
+          "name": "Dois irmãos",
+          "price": 10.0,
+          "image": "5044692.jpg",
+          "description": "Autor: Milton Hatoum Editora: Companhia de Bolso",
+          "available": true
+        },
+        {
+          "id": "f-bulas-italianas",
+          "name": "Fábulas Italianas",
+          "price": 10.0,
+          "image": "1823917.jpg",
+          "description": "Autor: Ítalo Calvino Editora: Companhia de Bolso",
+          "available": true
         },
         {
           "id": "helter-skelter",
@@ -664,62 +738,6 @@
           "available": true
         },
         {
-          "id": "quando-ela-se-foi",
-          "name": "Quando ela se foi",
-          "price": 10.0,
-          "image": "51v2%2BBJ6D-L._AA324_PIkin4,BottomRight,-49,22_AA346_SH20_OU32_.jpg",
-          "description": "Autor: Harlan Coben Editora: Arqueiro",
-          "available": true
-        },
-        {
-          "id": "quebra-de-confian-a",
-          "name": "Quebra de confiança",
-          "price": 10.0,
-          "image": "51ez7tNBDkL._AA324_PIkin4,BottomRight,-49,22_AA346_SH20_OU32_.jpg",
-          "description": "Autor: Harlan Coben Editora: Arqueiro",
-          "available": true
-        },
-        {
-          "id": "desaparecido-para-sempre",
-          "name": "Desaparecido para sempre",
-          "price": 10.0,
-          "image": "51G6E%2BWIcEL._AA324_PIkin4,BottomRight,-55,22_AA346_SH20_OU32_.jpg",
-          "description": "Autor: Harlan Coben Editora: Arqueiro",
-          "available": true
-        },
-        {
-          "id": "n-o-conte-a-ningu-m",
-          "name": "Não conte a ninguém",
-          "price": 10.0,
-          "image": "2929204.jpg",
-          "description": "Autor: Harlan Coben Editora: Arqueiro",
-          "available": true
-        },
-        {
-          "id": "seis-anos-depois",
-          "name": "Seis anos depois",
-          "price": 10.0,
-          "image": "51vZQp-jq-L._SX346_BO1,204,203,200_.jpg",
-          "description": "Autor: Harlan Coben Editora: Arqueiro",
-          "available": true
-        },
-        {
-          "id": "cilada",
-          "name": "Cilada",
-          "price": 10.0,
-          "image": "51gPansokEL._SX337_BO1,204,203,200_.jpg",
-          "description": "Autor: Harlan Coben Editora: Arqueiro",
-          "available": true
-        },
-        {
-          "id": "por-que-engordamos",
-          "name": "Por que engordamos",
-          "price": 10.0,
-          "image": "42749735.jpg",
-          "description": "Autor: Gary Taubes Editora: L&PM",
-          "available": true
-        },
-        {
           "id": "barriga-de-trigo",
           "name": "Barriga de trigo",
           "price": 10.0,
@@ -758,14 +776,6 @@
           "image": "599757.jpg",
           "description": "Autor: Graham Marsh  Editora: Aurum Press  *Livro em inglês",
           "available": true
-        },
-        {
-          "id": "um-copo-de-c-lera",
-          "name": "Um copo de cólera",
-          "price": 10.0,
-          "image": "31Kj2ItCBJL._SX330_BO1,204,203,200_.jpg",
-          "description": "Autor: Raduan Nassar Editora: Companhia das Letras",
-          "available": false
         },
         {
           "id": "hist-rias-dos-mares-do-sul",
@@ -829,14 +839,6 @@
           "price": 5.0,
           "image": "o-profeta-khalil-gibran-13686-MLB164501218_7037-O.jpg",
           "description": "Autor: Gibran Khalil Gibran",
-          "available": true
-        },
-        {
-          "id": "tudo-come-ou-com-maquiavel",
-          "name": "Tudo começou com maquiavel",
-          "price": 10.0,
-          "image": "35932_992.jpg",
-          "description": "Autor: Luciano Gruppi  Editora: L&PM",
           "available": true
         },
         {
