@@ -454,7 +454,7 @@
           "price": 5.0,
           "image": "374939.jpg",
           "description": "Autor: Bukowski Editora: L&PM",
-          "available": true
+          "available": false
         },
         {
           "id": "a-carta-roubada",
@@ -623,7 +623,7 @@
           "price": 20.0,
           "image": "51RxlTYrc%2BL._SX331_BO1,204,203,200_.jpg",
           "description": "Autor: Isabel Allende Editora: Bertrand Brasil",
-          "available": true
+          "available": false
         },
         {
           "id": "bandeiras-palidas",
@@ -831,7 +831,7 @@
           "price": 10.0,
           "image": "41gCX2HtBJL._SX346_BO1,204,203,200_.jpg",
           "description": "Autor: Goethe",
-          "available": true
+          "available": false
         },
         {
           "id": "o-profeta",
