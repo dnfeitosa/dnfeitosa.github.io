@@ -252,7 +252,7 @@
           "price": 10.0,
           "image": "22555849.jpg",
           "description": "Autor: Vários Editora: Cengage",
-          "available": true
+          "available": false
         },
         {
           "id": "lovemarks--o-futuro-al-m-das-marcas",
@@ -647,7 +647,7 @@
           "price": 10.0,
           "image": "61wIcWHDxIL._AA324_PIkin4,BottomRight,-51,22_AA346_SH20_OU32_.jpg",
           "description": "Autor: Tiffani H. Gyatso",
-          "available": true
+          "available": false
         },
         {
           "id": "o-clube-do-filme",
@@ -711,7 +711,7 @@
           "price": 10.0,
           "image": "51dIM0Jkp1L._SX340_BO1,204,203,200_.jpg",
           "description": "Autor: Jeff Lindsay Editora: Planeta do Brasil",
-          "available": true
+          "available": false
         },
         {
           "id": "hist-ria-natural-de-pablo-neruda",
@@ -759,7 +759,7 @@
           "price": 10.0,
           "image": "42124136.jpg",
           "description": "Autor: Neil Gaiman Editora: Intrínseca",
-          "available": true
+          "available": false
         },
         {
           "id": "1001-filmes-para-ver-antes-de-morrer",
@@ -903,7 +903,7 @@
           "price": 20.0,
           "image": "30375107.jpg",
           "description": "Autor: Hannah Arendt Editora: Companhia de Bolso",
-          "available": true
+          "available": false
         }
       ],
       "promotions": [

@@ -163,7 +163,7 @@
           "price": 30.0,
           "image": "jogo-dead-space-xbox-360-851801-MLB20415656515_092015-F.jpg",
           "description": "",
-          "available": false
+          "available": true
         },
         {
           "id": "dead-space-3---limited-edition",
@@ -171,7 +171,7 @@
           "price": 40.0,
           "image": "video-games-20376-MLB20188606285_102014-Y.jpg",
           "description": "",
-          "available": false
+          "available": true
         },
         {
           "id": "dead-space-2",
@@ -179,7 +179,7 @@
           "price": 40.0,
           "image": "game-xbox360-dead-space-2-9679-MLB20020056256_122013-O.jpg",
           "description": "",
-          "available": false
+          "available": true
         }
       ],
       "promotions": [
@@ -240,7 +240,7 @@
   ],
   "promotions": [
     {
-      "price": 799.0,
+      "price": 792.0,
       "products": [
         "xbox-360-4gb---controle",
         "kinect-xbox-360---kinect-adventures"
