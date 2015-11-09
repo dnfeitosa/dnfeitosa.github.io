@@ -164,7 +164,7 @@
           "price": 45.0,
           "image": "41XepS8LtcL._SX322_BO1,204,203,200_.jpg",
           "description": "Patrick Lencioni",
-          "available": true
+          "available": false
         },
         {
           "id": "silos--politics-and-turf-wars",
@@ -172,7 +172,7 @@
           "price": 45.0,
           "image": "silos.png",
           "description": "Patrick Lencioni",
-          "available": true
+          "available": false
         },
         {
           "id": "blink--a-decis-o-num-piscar-de-olhos",
@@ -567,7 +567,7 @@
           "price": 10.0,
           "image": "1145885.jpg",
           "description": "Autor: Friedrich Nietzsche Editora: Companhia de Bolso",
-          "available": true
+          "available": false
         },
         {
           "id": "dois-irm-os",
