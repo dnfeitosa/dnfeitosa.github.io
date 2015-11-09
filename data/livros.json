@@ -599,7 +599,7 @@
           "price": 20.0,
           "image": "5079667.jpg",
           "description": "Autor: Zygmut Bauman Editora: Zahar",
-          "available": true
+          "available": false
         },
         {
           "id": "amor-liquido",
@@ -615,7 +615,7 @@
           "price": 20.0,
           "image": "42147285.jpg",
           "description": "Autor: Malala Yousafzai Editora: Companhia das Letras",
-          "available": true
+          "available": false
         },
         {
           "id": "casa-dos-esp-ritos",
@@ -719,7 +719,7 @@
           "price": 10.0,
           "image": "1823927.jpg",
           "description": "Autor: Vinicius de Moraes Editora: Companhia das Letras",
-          "available": true
+          "available": false
         },
         {
           "id": "filosofia",
@@ -767,7 +767,7 @@
           "price": 30.0,
           "image": "2638994.jpg",
           "description": "Autor: Steven Jay Schneider  Editora: Arqueiro",
-          "available": true
+          "available": false
         },
         {
           "id": "film-posters-of-the-60s",
