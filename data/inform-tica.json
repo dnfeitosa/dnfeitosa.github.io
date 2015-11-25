@@ -11,7 +11,7 @@
           "price": 140.0,
           "image": "multifuncional.jpg",
           "description": "Impressora + Scanner + Copiadora. Compatível com Windows e Mac",
-          "available": true
+          "available": false
         },
         {
           "id": "monitor-lcd-17--lg",
