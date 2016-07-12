@@ -2,7 +2,6 @@
 <html lang="en" ng-app="commerceApp">
 <head>
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8" >
-    <title>Bazar do Desapego</title>
     <link type="text/css" rel="stylesheet" href="./css/bootstrap.css" />
     <link type="text/css" rel="stylesheet" href="./css/commerce.css" />
     <script src="./js/jquery-2.1.1.min.js"></script>
@@ -13,79 +12,5 @@
     <script src="./models.js"></script>
     <script src="./products.js"></script>
 </head>
-<body ng-controller="CommerceCtrl" ng-init="show()">
-    <div class="container-fluid">
-        <div class="navbar navbar-default navbar-fixed-top" role="navigation">
-            <div class="container-fluid">
-                <div class="navbar-header">
-                    <a class="navbar-brand" href="#" ng-click="show('')"><strong>Bazar do Desapego</strong></a>
-                </div>
-                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                    <ul class="nav navbar-nav">
-                        <li ng-class="{active: category.id == categoryId}" ng-repeat="category in categories"><a href="#/{{category.id}}" ng-click="show(category.id)">{{category.name}}</a></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-        <!--<div class="subcategories">-->
-            <!--<span class="category" ng-repeat="category in categories"><a href="#/{{category.id}}" ng-click="show(category.id)">{{category.name}}</a></span>-->
-            <!--<span class="category"><a href="contato.html">Contato</a></span>-->
-        <!--</div>-->
-
-        <section class="category" ng-show="category">
-            <legend><h1>{{category.name}}</h1></legend>
-
-            <section class="promotions" ng-show="category.hasPromotions()">
-                <legend><h3>Compre junto e pague menos</h3></legend>
-
-                <div class="row">
-                    <div ng-repeat="promotion in category.availablePromotions()">
-                        <div class="col-lg-8 col-lg-offset-2 col-md-6">
-                            <div class="promotion product row bg-success">
-                                <div class="col-lg-{{(9 / promotion.products.length).toFixed(0)}}" ng-repeat="product in promotion.products">
-                                    <img ng-src="/images/{{product.image}}" height="100px">
-                                    <p><span class="name">{{product.name}}</span></p>
-                                    <p><span class="regular price"><strong>{{product.price | currency : 'R$ '}}</strong></span></p>
-                                </div>
-                                <div class="col-lg-{{12 - ((9 / promotion.products.length).toFixed(0) * promotion.products.length)}}">
-                                    <div class="row">
-                                        <div class="col-lg-12">
-                                            <div>De: <span class="regular price">{{promotion.regularTotalPrice() | currency : 'R$ ' }}</span></div>
-                                        </div>
-                                    </div>
-                                    <div class="row">
-                                        <div class="col-lg-12">
-                                            <div>Por: <span class="promotional price">{{promotion.price | currency : 'R$ ' }}</span></div>
-                                        </div>
-                                    </div>
-
-                                    <div class="row">
-                                        <div class="col-lg-12">
-                                            <span><a class="btn btn-lg btn-success" href="mailto:dnfeitosa@gmail.com?subject=Promo: {{promotion.name()}}">Eu quero!</a></span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <section class="subcategory" ng-repeat="subCategory in category.subCategories">
-                <legend><h3>{{subCategory.name}}</h3></legend>
-
-                <div class="row">
-                    <div class="product col-lg-2 col-md-3 col-sm-4" ng-repeat="product in subCategory.availableProducts() | orderBy: 'name'">
-                        <div class="info">
-                            <img ng-src="/images/{{product.image}}" height="120px">
-                            <div class="name">{{product.name}}</div>
-                            <div class="description small">{{product.description}}</div>
-                            <div class="price"><strong>{{product.price | currency : 'R$ '}}</strong></div>
-                        </div>
-                        <p><a class="btn btn-sm btn-success" href="mailto:dnfeitosa@gmail.com?subject={{product.name}}">Eu quero!</a></p>
-                    </div>
-                </div>
-            </section>
-        </section>
-    </div>
-</body>
+<body></body>
+</html>
